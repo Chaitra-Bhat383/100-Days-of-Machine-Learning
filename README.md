@@ -10,4 +10,6 @@
 
 ## Day-2 [18-09-2021] : Regression Analysis
 * Started by solving a problem related to the previous day which involved KNN and MNIST Dataset
+* Learnt about different types of regression namely Linear Regression, Logistic Regression, Ridge Regression, Lasso Regression and Polynomial Regression.
+* Each one with their Equations and Graphs
 
