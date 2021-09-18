@@ -6,3 +6,7 @@
 * Started "Machine learning- A Probabilistic Perspective" by Kevin Murphy.
 * Introduction to machine learning- learnt about: Matrix completion, Image Inpainting, collaborative filtering, No free lunch theorem and Market Basket analysis.
 * 4 Distance measures widely used in machine learning.
+
+
+## Day-2 [18-09-2021] : Regression Analysis
+
