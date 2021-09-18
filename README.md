@@ -9,4 +9,5 @@
 
 
 ## Day-2 [18-09-2021] : Regression Analysis
+* Started by solving a problem related to the previous day which involved KNN and MNIST Dataset
 
