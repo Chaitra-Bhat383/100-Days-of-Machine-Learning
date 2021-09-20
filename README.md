@@ -20,4 +20,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 ## Day-4 [20-09-2021] Naive Bayes Classifier:
 ![image](https://miro.medium.com/max/1200/1*39U1Ln3tSdFqsfQy6ndxOA.png)
-*
+* Understood the intuition behind Naive Bayes Classifier
+* Implemented a simple Naive Bayes Classification model using scratch for [Iris dataset](https://www.kaggle.com/vikrishnan/iris-dataset) dataset available on Kaggle.
