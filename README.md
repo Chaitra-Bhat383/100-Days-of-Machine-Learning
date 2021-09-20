@@ -19,3 +19,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Implemented a simple classification model using [scikit-learn](https://scikit-learn.org/stable/) SVM for the [Bank-retirement](https://www.kaggle.com/adarshkumarjha/bank-customer-retirement) dataset available on Kaggle.
 
 ## Day-4 [20-09-2021] Naive Bayes Classifier:
+![image](https://miro.medium.com/max/1200/1*39U1Ln3tSdFqsfQy6ndxOA.png)
+*
