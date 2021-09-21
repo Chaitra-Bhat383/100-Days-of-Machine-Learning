@@ -18,7 +18,12 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Understood the intuition behind SVMs.
 * Implemented a simple classification model using [scikit-learn](https://scikit-learn.org/stable/) SVM for the [Bank-retirement](https://www.kaggle.com/adarshkumarjha/bank-customer-retirement) dataset available on Kaggle.
 
-## Day-4 [20-09-2021] Naive Bayes Classifier:
-![image](https://miro.medium.com/max/1200/1*39U1Ln3tSdFqsfQy6ndxOA.png)
-* Understood the intuition behind Naive Bayes Classifier
-* Implemented a simple Naive Bayes Classification model using scratch for [Iris dataset](https://www.kaggle.com/vikrishnan/iris-dataset) dataset available on Kaggle.
+##  Day-4 [20-09-2021] Naive-Bayes:
+![image](https://user-images.githubusercontent.com/77164319/134170787-74e88010-a8b4-495e-aee8-4a4d0dfb368e.png)
+
+* Understood the intuition behind Naive Bayes Classifier.
+* Implemented a simple Naive Bayes Classification model using scratch for [Iris dataset](https://www.kaggle.com/vikrishnan/iris-dataset) available on Kaggle.
+
+## Day-5 [21-09-2021] Hyperparameter tuning:
+* learnt the importance of hyperparameter tuning in machine learning algorithms.
+* saw different parameters for SVMs, Naive Bayes and KNNs. 
