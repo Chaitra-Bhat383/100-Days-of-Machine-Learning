@@ -27,3 +27,7 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day-5 [21-09-2021] Hyperparameter tuning:
 * learnt the importance of hyperparameter tuning in machine learning algorithms.
 * saw different parameters for SVMs, Naive Bayes and KNNs. 
+
+## Day-6 [22-09-2021] Bias, Variance, Cross Validation and Confusion Matrix
+* Learnt each of terms Bias, Variance, Cross Validation, Confusion Matrix
+* Implemented GridSearchCV and selected the best hyperparamter for Support Vector machine on a dataset
