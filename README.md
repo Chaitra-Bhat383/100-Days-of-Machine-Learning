@@ -39,8 +39,13 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * [Matplotlib Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
 * [Seaborn Cheatsheet](http://datacamp-community-prod.s3.amazonaws.com/263130e2-2c92-4348-a356-9ed9b5034247)
 
-## Day-8 [12-10-2021] Kernal Functions:
+## Day-8 [11-10-2021] Kernels:
 * Learnt basics of kernal functions.
-* Also started watching Stanford's CS299 lecture on [kernals](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9).
+* Also started watching Stanford's CS299 lecture on [kernels](https://www.youtube.com/watch?v=8NYoQiRANpg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
 
+## Day-9 [12-10-2021] Kernels Continued:
+* Learnt kernels for SVMs-polynomial and Radial Kernal(Radial bias function).
+![image](https://user-images.githubusercontent.com/77164319/136872058-7ef4172d-f768-433f-b3f0-b0153eeed5e0.png)
+* Learnt kernels and filters for convolution.
+* Referred to chapter 14 in Machine learning-A Probabilistic perspective by Kevin Murphy.
 
