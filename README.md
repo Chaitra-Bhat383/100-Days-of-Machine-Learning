@@ -49,3 +49,6 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Learnt kernels and filters for convolution.
 * Referred to chapter 14 in Machine learning-A Probabilistic perspective by Kevin Murphy.
 
+## Day-10 [13-10-2021] Decision Trees:
+* Learnt Basics of Decision Trees through numerous examples.
+* Watched Video by StatQuest on [Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)
