@@ -51,4 +51,4 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 ## Day-10 [13-10-2021] Decision Trees:
 * Learnt Basics of Decision Trees through numerous examples.
-* Watched Video by [StatQuest](https://www.youtube.com/watch?v=_L39rN6gz7Y&t=0s) on Classification and Regression Decision Trees.
+* Watched Video by [StatQuest](https://www.youtube.com/watch?v=_L39rN6gz7Y&t=0s) on Classification Decision Trees.
