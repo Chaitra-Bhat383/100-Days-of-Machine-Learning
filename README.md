@@ -64,10 +64,13 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Learnt about the ID3 algorithm, Entropy and Information gain.
 ![image](https://user-images.githubusercontent.com/77164319/137328976-39dcfb02-476f-405e-9fd4-5c6b1c366fbd.png)
 
-## Day 12 [15/09/2021] Neural Networks:
+## Day 12 [15/10/2021] Neural Networks:
 * Started Stanford's CS299 lecture on [Introduction to Neural Networks](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12&t=1854s).
 * Learned about: Equational form of neurons and models.
 * Terminology
 * Advantages of neural networks.
 * Softmax
 
+## Day 13 [16/10/2021] Neural Networks and Backpropagation:
+* Watched [Statquest](https://www.youtube.com/watch?v=IN2XmBhILt4) video on very idea of Backpropagation.
+* Learnt concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
