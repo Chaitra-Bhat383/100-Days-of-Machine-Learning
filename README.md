@@ -72,6 +72,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Softmax
 
 ## Day 13 [16/10/2021] Neural Networks and Backpropagation:
-* ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techleer.com%2Farticles%2F242-backpropagation-a-supervised-learning-neural-network-  method%2F&psig=AOvVaw0vZyOY8SOjS4E-wb-f35bE&ust=1634467381073000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiUrtDfzvMCFQAAAAAdAAAAABAJ)
 * Watched [StatQuest](https://www.youtube.com/watch?v=IN2XmBhILt4) video on very idea of Backpropagation.
 * Learnt concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
