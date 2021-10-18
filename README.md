@@ -78,4 +78,4 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 
 ## Day 14 [19/10/2021] Nueral Networks and Backpropagation Continued:
 * Again analysed the concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
-*  Learnt in depth the concepts of weights, bias, Gradient Descent and optimsation of parameters.
+*  Learnt in depth the concepts of weights, bias, Activation functions, Gradient Descent and optimsation of parameters.
