@@ -74,4 +74,8 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day 13 [16/10/2021] Neural Networks and Backpropagation:
 ![image](https://s3.ap-south-1.amazonaws.com/techleer/247.jpg)
 * Watched [StatQuest](https://www.youtube.com/watch?v=IN2XmBhILt4) video on very idea of Backpropagation.
-* Learnt concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
+* Learnt concepts of Chain rule in backpropagation and optimizing three parameters in a Neural Network simultaneously.
+
+## Day 14 [19/10/2021] Nueral Networks and Backpropagation Continued:
+* Again analysed the concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
+*  Learnt in depth the concepts of weights, bias, Gradient Descent and optimsation of parameters.
