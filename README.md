@@ -79,3 +79,8 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 ## Day 14 [18/10/2021] Neural Networks and Backpropagation Continued:
 * Again analysed the concepts of [Chain rule](https://www.youtube.com/watch?v=GKZoOHXGcLo&t=626s) in backpropagation and [optimizing](https://www.youtube.com/watch?v=iyn2zdALii8) three parameters in a Neural Network simultaneously.
 *  Learnt in depth the concepts of weights, bias, Activation functions, Gradient Descent and optimsation of parameters.
+
+## Day 15 [19/10/2021] K-Nearest Neighbours:
+* Introduction to K nearest neighbours algorithm.
+* Applications, Advantages and disadvantages of KNNs.
+* Learnt about hyperparameter tuning of K.
