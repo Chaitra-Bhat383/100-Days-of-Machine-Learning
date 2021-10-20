@@ -84,3 +84,8 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Introduction to K nearest neighbours algorithm.
 * Applications, Advantages and disadvantages of KNNs.
 * Learnt about hyperparameter tuning of K.
+
+## Day 16 [20/10/2021] K-Nearest Neighbours Continued:
+![image](https://static.javatpoint.com/tutorial/machine-learning/images/k-nearest-neighbor-algorithm-for-machine-learning2.png)
+* Watched [StatQuest](https://www.youtube.com/watch?v=HVXime0nQeI) video on KNN.
+* Learnt concepts like Euclidean Distance and how exactly the KNN Algorithm works.
