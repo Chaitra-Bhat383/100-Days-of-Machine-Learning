@@ -101,5 +101,5 @@ Finished machine learning concepts from Andrew NG's course by Standford Universi
 * Learnt about data augmentation and how to implement it on deep learning models.
 
 ## Day 19 [30/10/2021] Project on implementation of KNN's
-* Built a project on KNN's that implements and uses Machine Learning in trading.
+* Built a project on KNN that implements and uses Machine Learning in trading.
 * [Reference](https://blog.quantinsti.com/machine-learning-k-nearest-neighbors-knn-algorithm-python/) for the project.
