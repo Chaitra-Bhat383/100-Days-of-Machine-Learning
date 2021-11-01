@@ -111,3 +111,14 @@ Some of the things I learned today:
 * What is the function of the CNN kernel?
 * Continued to read up on ConvNet.
 * Learned about the max pooling layer.
+
+## Day 21 [1/11/21] Recurrent Neural Networks:
+![image](https://user-images.githubusercontent.com/77164319/139613520-9dec5714-2310-419e-94da-4c66f34a022b.png)
+
+Some of the things I learned today:
+* What are [recurrent neural networks](https://www.youtube.com/watch?v=LHXXI4-IEns)?
+* What makes RNNs more powerful than other architectures?
+* Learned about the different RNNs architectures.
+* Explored the different applications of RNNs.
+* Learnt basics of [LSTM and GRU](https://www.youtube.com/watch?v=8HyCNIVRbSU). learnt the intuition behind them
+
