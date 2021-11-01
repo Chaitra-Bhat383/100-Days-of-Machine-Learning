@@ -123,8 +123,8 @@ Some of the things I learned today:
 * Learnt basics of [LSTM and GRU](https://www.youtube.com/watch?v=8HyCNIVRbSU). learnt the intuition behind them
 
 ## Day 22 [1/11/21] Long Short Term memory:
-Learnt 
-* basics of [LSTM(Long Short Trem Memory)](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
-* The Core Idea Behind LSTMs
+Learnt te following today:
+* basics of [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+* The Core Idea Behind LSTMs(Long Short Trem Memory)
 * Step-by-Step LSTM Walk Through
 * Variants on Long Short Term Memory
