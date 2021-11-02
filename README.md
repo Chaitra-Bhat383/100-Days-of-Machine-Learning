@@ -132,5 +132,5 @@ Learnt the following today:
 ## Day 23 [3/11/21] Gated recurrent units:
 * Learnt about update gate and reset gate.
 * basic understanding of the hidden state.
-* how to execute GRUs using keras.
+* how to execute [GRUs](https://www.youtube.com/watch?v=Ogvd787uJO8) using keras.
 * read about working of gates and GRUs.
