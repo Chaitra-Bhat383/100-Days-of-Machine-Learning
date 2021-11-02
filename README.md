@@ -133,4 +133,4 @@ Learnt the following today:
 * Learnt about update gate and reset gate.
 * basic understanding of the hidden state.
 * how to execute [GRUs](https://www.youtube.com/watch?v=Ogvd787uJO8) using keras.
-* read about working of gates and GRUs.
+* read about [working of gates and GRUs](https://www.analyticsvidhya.com/blog/2021/03/introduction-to-gated-recurrent-unit-gru/).
