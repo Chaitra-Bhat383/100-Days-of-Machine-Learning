@@ -136,5 +136,5 @@ Learnt the following today:
 * read about [working of gates and GRUs](https://www.analyticsvidhya.com/blog/2021/03/introduction-to-gated-recurrent-unit-gru/).
 
 ## Day 24 [4/11/21] Project on RNNs:
-* worked on sequence prediction problem using RNN.
+* Worked on sequence prediction problem using RNN.
 * [Reference](https://www.analyticsvidhya.com/blog/2019/01/fundamentals-deep-learning-recurrent-neural-networks-scratch-python/) for the project.
