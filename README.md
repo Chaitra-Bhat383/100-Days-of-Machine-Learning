@@ -160,4 +160,4 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * Tf-Idf
 * Word2Vec
 
-ok
+
