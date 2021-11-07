@@ -159,3 +159,5 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * Count Vectorizer
 * Tf-Idf
 * Word2Vec
+
+ok
