@@ -162,4 +162,4 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 
 ## Day-28 [8/11/2021] Project on NLP :
 * Worked on Sentiment Analysis using NLP.
-* ![Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/)
+* [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/)
