@@ -164,4 +164,4 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 ![image](https://user-images.githubusercontent.com/77164319/140771312-f4d95aa3-cdcf-4c6e-962d-8bda9bd8a898.png)
 * Worked on Sentiment Analysis using NLP.
 * Sentiment analysis refers to the application of natural language processing, computational linguistics, and text analysis to identify and classify subjective opinions in source documents.
-* [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/)
+* [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/) for the project.
