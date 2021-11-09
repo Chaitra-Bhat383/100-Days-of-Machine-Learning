@@ -183,3 +183,4 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * Learnt about [Batch](https://www.youtube.com/watch?v=sDv4f4s2SB8) Gradient Desent.
 * Learnt [Stochastic](https://www.youtube.com/watch?v=vMh0zPT0tLI)  Gradient Desent.
 * Learnt major [differences](https://www.geeksforgeeks.org/difference-between-batch-gradient-descent-and-stochastic-gradient-descent/) between Batch Gradient Desent and Stochastic Gradient Desent.
+* Other [References](https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a)
