@@ -167,7 +167,7 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/) for the project.
 
 ## Day-29 [9/11/2021] Exploratory Data Analysis:
-###What is EDA?
+### What is EDA?
 
 ![image](https://user-images.githubusercontent.com/77164319/140796276-5a29139f-ca7f-46d1-b425-88c86c2bd831.png)
 
