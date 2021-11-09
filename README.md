@@ -178,4 +178,7 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * Learnt about various techniques to create models for predicting certain kind of outputs.
 * How to make inferences and write a detailed report.
 
-## Day-30 [10/11/2021] Stochastic Gradient Desent :
+## Day-30 [10/11/2021] Batch Gradient Desent and Stochastic Gradient Desent :
+* Learnt about [Batch Gradient Desent](https://www.youtube.com/watch?v=sDv4f4s2SB8).
+* Learnt [Stochastic Gradient Desent](https://www.youtube.com/watch?v=vMh0zPT0tLI).
+* Learnt major [differences](https://www.geeksforgeeks.org/difference-between-batch-gradient-descent-and-stochastic-gradient-descent/) between Batch Gradient Desent and Stochastic Gradient Desent.
