@@ -165,3 +165,5 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * Worked on Sentiment Analysis using NLP.
 * Sentiment analysis refers to the application of natural language processing, computational linguistics, and text analysis to identify and classify subjective opinions in source documents.
 * [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/) for the project.
+
+## Day-30 [9/11/2021] Stochastic Gradient Desent :
