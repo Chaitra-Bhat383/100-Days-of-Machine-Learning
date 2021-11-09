@@ -167,8 +167,10 @@ Learn the basics of various types of [vectorizers](https://neptune.ai/blog/vecto
 * [Reference](https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/) for the project.
 
 ## Day-29 [9/11/2021] Exploratory Data Analysis:
-What is EDA?
+###What is EDA?
+
 ![image](https://user-images.githubusercontent.com/77164319/140796276-5a29139f-ca7f-46d1-b425-88c86c2bd831.png)
+
 In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/2021/04/rapid-fire-eda-process-using-python-for-ml-implementation/) is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods
 * Learnt about different proprocessing techniques on a dataset using pandas and numpy.
 * Learn what [plots are significant](https://chartio.com/learn/charts/essential-chart-types-for-data-visualization/) to different types of data.
