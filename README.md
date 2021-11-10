@@ -185,7 +185,7 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * Learnt major [differences](https://www.geeksforgeeks.org/difference-between-batch-gradient-descent-and-stochastic-gradient-descent/) between Batch Gradient Desent and Stochastic Gradient Desent.
 * Other [References](https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a).
 
-Day-31 [11/11/2021] Introduction to K-means clustering :
+## Day-31 [11/11/2021] Introduction to K-means clustering :
 * intuition behind [K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA).
 * Interesting visualization of [K-means clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/).
 * [Hyperparameter tuning](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/) in K-means clustering algorithm
