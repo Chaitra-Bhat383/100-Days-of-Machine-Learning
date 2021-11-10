@@ -187,5 +187,5 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 
 Day-31 [11/11/2021] Introduction to K-means clustering :
 * intuition behind [K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA).
-* Interesting visualization of K-means clustering
-* Hyperparameter tuning in K-means clustering algorithm
+* Interesting visualization of [K-means clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/).
+* [Hyperparameter tuning](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/) in K-means clustering algorithm
