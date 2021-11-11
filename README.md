@@ -189,3 +189,8 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 * intuition behind [K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA).
 * Interesting visualization of [K-means clustering](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/).
 * [Hyperparameter tuning](https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/) in K-means clustering algorithm
+
+## Day-32 [12/11/2021] K-means clustering continued:
+![image](https://ds055uzetaobb.cloudfront.net/brioche/uploads/y4KGN92h7r-screen-shot-2016-05-05-at-43007-pm.png?width=1200)
+* Learnt some of the applications of K-means clustering.
+* Learnt [Mathematics](https://muthu.co/mathematics-behind-k-mean-clustering-algorithm/) behind K-means clustering.
