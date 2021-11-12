@@ -192,5 +192,5 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 
 ## Day-32 [12/11/2021] K-means clustering continued:
 ![image](https://ds055uzetaobb.cloudfront.net/brioche/uploads/y4KGN92h7r-screen-shot-2016-05-05-at-43007-pm.png?width=1200)
-* Learnt some of the applications of K-means clustering.
+* Learnt 
 * Learnt [Mathematics](https://muthu.co/mathematics-behind-k-mean-clustering-algorithm/) behind K-means clustering.
