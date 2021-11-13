@@ -194,3 +194,7 @@ In statistics, [exploratory data analysis](https://www.analyticsvidhya.com/blog/
 ![image](https://ds055uzetaobb.cloudfront.net/brioche/uploads/y4KGN92h7r-screen-shot-2016-05-05-at-43007-pm.png?width=1200)
 * Learnt some of the applications of K-means clustering.
 * Learnt [Mathematics](https://muthu.co/mathematics-behind-k-mean-clustering-algorithm/) behind K-means clustering.
+
+## Day-33 [13/11/2021] K-means clustering mini project:
+* Using Python (Pandas, NumPy) to gather and assess the data and scikit-learn to train a K-Means model to detect if a banknote is genuine or forged.
+* Reference(https://towardsdatascience.com/k-means-clustering-project-banknote-authentication-289cfe773873) for the project
