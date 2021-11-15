@@ -216,7 +216,7 @@ Learned about:
 * How Hopfield networks improve on the RNN model.
 
 ## Day-36 [16/11/2021] Boltzmann Machines:
-* What [Boltzmann machines](https://www.geeksforgeeks.org/types-of-boltzmann-machines/) are.
+* Learnt what [Boltzmann machines](https://www.geeksforgeeks.org/types-of-boltzmann-machines/) are.
 * Learnt types of Boltzmann Machines and working of them.
 * Learnt:
 1) Restricted Boltzmann Machines (RBMs)
