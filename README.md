@@ -214,3 +214,11 @@ Learned about:
 * Advantages of Hopfield Nets.
 * How to use Hopfield networks.
 * How Hopfield networks improve on the RNN model.
+
+## Day-36 [16/11/2021] Boltzmann Machines:
+* What [Boltzmann machines](https://www.geeksforgeeks.org/types-of-boltzmann-machines/) are.
+* Learnt types of Boltzmann Machines and working of them.
+* Learnt:
+1) Restricted Boltzmann Machines (RBMs)
+2) Deep Belief Networks (DBNs)
+3) Deep Boltzmann Machines (DBMs)
