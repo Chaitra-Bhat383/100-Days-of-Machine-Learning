@@ -219,6 +219,6 @@ Learned about:
 * Learnt what [Boltzmann machines](https://www.geeksforgeeks.org/types-of-boltzmann-machines/) are.
 * Learnt types of Boltzmann Machines and working of them.
 * Learnt:
-1) Restricted Boltzmann Machines (RBMs)
-2) Deep Belief Networks (DBNs)
-3) Deep Boltzmann Machines (DBMs)
+  1) Restricted Boltzmann Machines (RBMs)
+  2) Deep Belief Networks (DBNs)
+  3) Deep Boltzmann Machines (DBMs)
