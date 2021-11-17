@@ -232,4 +232,4 @@ Learned about:
 * Applications of Autoencoders.
 
 ## Day-38 [18/11/2021] Deep Belief Networks:
-![image](https://medium.com/@icecreamlabs/deep-belief-networks-all-you-need-to-know-68aa9a71cc53)
+![image](https://miro.medium.com/max/395/1*GDATBHeVTbKt1jynVZS_-Q.png)
