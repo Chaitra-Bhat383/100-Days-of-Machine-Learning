@@ -230,3 +230,6 @@ Learned about:
 * How an Autoecoder functions.
 * The components that make up an Autoencoder.
 * Applications of Autoencoders.
+
+## Day-38 [18/11/2021] Deep Belief Networks:
+![image](https://medium.com/@icecreamlabs/deep-belief-networks-all-you-need-to-know-68aa9a71cc53)
