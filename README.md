@@ -222,3 +222,11 @@ Learned about:
   1) Restricted Boltzmann Machines (RBMs)
   2) Deep Belief Networks (DBNs)
   3) Deep Boltzmann Machines (DBMs)
+
+## Day- 37 [17/11/2021] Autoencoders:
+Learned about:
+
+* What Autoencoder networks are.
+* How an Autoecoder functions.
+* The components that make up an Autoencoder.
+* Applications of Autoencoders.
