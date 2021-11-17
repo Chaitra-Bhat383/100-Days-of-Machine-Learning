@@ -226,7 +226,7 @@ Learned about:
 ## Day- 37 [17/11/2021] Autoencoders:
 Learned about:
 
-* What Autoencoder networks are.
+* What [Autoencoder networks](https://www.jeremyjordan.me/autoencoders/) are.
 * How an Autoecoder functions.
 * The components that make up an Autoencoder.
 * Applications of Autoencoders.
