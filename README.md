@@ -233,3 +233,7 @@ Learned about:
 
 ## Day-38 [18/11/2021] Deep Belief Networks:
 ![image](https://www.researchgate.net/publication/337264687/figure/fig1/AS:825301265313793@1573778563335/Deep-belief-network-DBN-basic-network-structure.png)
+* Watched a video(https://www.youtube.com/watch?v=E2Mt_7qked0) on Deep Belief Networks(DBN).
+* DBN method is also known as Layer-wise, unsupervised, greedy pre-training.
+* Learnt that in this type of net each layer ends up learning the full input structure.
+* Learnt that DBN is an effective solution to the vanishing gradient problem
