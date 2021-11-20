@@ -26,6 +26,6 @@ activation_function='relu',
 dropout_p=0.2)
 
 classifier.fit(X_train, Y_train)
-
 Y_pred = classifier.predict(X_test)
+
 print('Done.\nAccuracy: %f' % accuracy_score(Y_test, Y_pred))
