@@ -222,6 +222,7 @@ Learned about:
   1) Restricted Boltzmann Machines (RBMs)
   2) Deep Belief Networks (DBNs)
   3) Deep Boltzmann Machines (DBMs)
+  
 
 ## Day- 37 [17/11/2021] Autoencoders:
 Learned about:
