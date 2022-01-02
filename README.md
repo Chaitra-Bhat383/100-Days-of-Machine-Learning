@@ -258,9 +258,8 @@ Learned about:
   * NLP module of DialogFlow translates students’ queries into structured data in order to understand institute’s service.
 
 ## Day-43 [02/01/2021] Seq2Seq :
-![image](https://user-images.githubusercontent.com/79207846/147884166-e294570a-8482-4a9b-80c1-96d0c65b6ceb.png)
-
 Learnt 
+![image](https://user-images.githubusercontent.com/79207846/147884166-e294570a-8482-4a9b-80c1-96d0c65b6ceb.png)
 * Basic working of [Sequence To Sequence (Seq2Seq)](https://www.youtube.com/watch?v=jCrgzJlxTKg) model.
 * Encoder-Decoder Architecture.
 * [Reference](https://www.analyticsvidhya.com/blog/2020/08/a-simple-introduction-to-sequence-to-sequence-models/)
