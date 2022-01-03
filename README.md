@@ -264,3 +264,9 @@ Learnt:
 * Basic working of [Sequence To Sequence (Seq2Seq)](https://www.youtube.com/watch?v=jCrgzJlxTKg) model.
 * Encoder-Decoder Architecture.
 * [Reference](https://www.analyticsvidhya.com/blog/2020/08/a-simple-introduction-to-sequence-to-sequence-models/)
+
+## Day-44 [03/01/2021] Sliding window technique :
+* This technique involves taking a subset of data from a given array or string, expanding or shrinking that subset to satisfy certain conditions, hence the sliding effect.
+* It is also used in object detection and many other machine learning algorithms.
+* Learnt the basics of the algorithm and it's applications.
+* [Reference](https://www.geeksforgeeks.org/window-sliding-technique/)
