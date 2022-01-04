@@ -273,3 +273,7 @@ Learnt:
 * [Reference](https://www.geeksforgeeks.org/window-sliding-technique/)
 
 ## Day-45 [04/01/2021] Attention Models :
+![image](https://user-images.githubusercontent.com/79207846/148099716-daa5839d-9f4b-4c7b-9aa4-b130ad62f641.png)
+
+* Understood the intuition behind Attention Models.
+* [Reference](https://www.youtube.com/watch?v=SysgYptB198)
