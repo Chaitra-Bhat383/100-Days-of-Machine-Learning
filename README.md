@@ -2,6 +2,7 @@
 100 Day ML Challenge to learn and implement ML/DL concepts ranging from the basics to more advanced state of the art models.
 Finished machine learning concepts from Andrew NG's course by Standford University on Coursera.
 
+
 # Daily logs:
 ## Day-1 [17-09-2021] Introduction:
 * Started ["Machine learning- A Probabilistic Perspective" by Kevin Murphy.](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
