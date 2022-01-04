@@ -271,3 +271,5 @@ Learnt:
 * It is also used in object detection and many other machine learning algorithms.
 * Learnt the basics of the algorithm and it's applications.
 * [Reference](https://www.geeksforgeeks.org/window-sliding-technique/)
+
+## Day-45 [04/01/2021] Attention Models :
