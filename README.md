@@ -309,5 +309,5 @@ Learnt :
 
 ![image](https://user-images.githubusercontent.com/79207846/148634442-4707284f-2081-4523-bd7b-15c6b42c75ed.png)
 
-* Basics of [Resnet Architecture](https://www.mygreatlearning.com/blog/resnet/).
+* Basics of [ResNet Architecture](https://www.mygreatlearning.com/blog/resnet/).
 * Working of [ResNet](https://www.youtube.com/watch?v=RYth6EbBUqM).
