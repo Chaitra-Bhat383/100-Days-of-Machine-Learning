@@ -295,7 +295,7 @@ Learnt :
 * Worked examples of Attention.
 * [Reference](https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/)
 
-## DAY-48 [07/01/2022] Future scope of Machine Learning:
+## Day-48 [07/01/2022] Future scope of Machine Learning:
 
 ![image](https://user-images.githubusercontent.com/77164319/148502074-44cde817-4b74-4ca2-918c-d7177419bec9.png)
 
@@ -304,10 +304,21 @@ Learnt :
 * AI in the news.
 * [Recent developments in the field](https://mobidev.biz/blog/future-machine-learning-trends-impact-business).
 
-## DAY-49 [08/01/2022] ResNet(Residual Network):
+## Day-49 [08/01/2022] ResNet(Residual Network):
 Learnt :
 
 ![image](https://user-images.githubusercontent.com/79207846/148634442-4707284f-2081-4523-bd7b-15c6b42c75ed.png)
 
 * Basics of [ResNet Architecture](https://www.mygreatlearning.com/blog/resnet/).
 * Working of [ResNet](https://www.youtube.com/watch?v=RYth6EbBUqM).
+
+## Day-50 [09/01/2022] Read a Research Paper on Movie Analysis:
+* Did a short Literature survey:
+  * written by Mahsa Shafaei, Niloofar Safi Samghabadi, Sudipta Kar and Thamar Solorio
+  * [Age Suitability Rating: Predicting the MPAA Rating Based on Movie Dialogues](https://aclanthology.org/2020.lrec-1.166.pdf)
+  * Movies help us learn and inspire societal change. But they can also contain objectionable content that negatively affects viewers’
+behavior, especially children. In this paper, our goal is to predict the suitability of movie content for children and young adults based on
+scripts. The criterion that we use to measure suitability is the MPAA rating that is specifically designed for this purpose. We create a
+corpus for movie MPAA ratings and propose an RNN-based architecture with attention that jointly models the genre and the emotions in
+the script to predict the MPAA rating. We achieve 81% weighted F1-score for the classification model that outperforms the traditional
+machine learning method by 7%.
