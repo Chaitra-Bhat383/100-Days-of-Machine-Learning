@@ -341,3 +341,7 @@ Learnt :
 * Implemented both ResNet and MobileNet models on CIFAR-10 dataset.
 * Analysed the efficiency of both the models on CIFAR-10 dataset.
 * [Reference](https://analyticsindiamag.com/mobilenet-vs-resnet50-two-cnn-transfer-learning-light-frameworks/)
+
+## DAY-54 [13/01/2022] Image classifier using MobileNet:
+* Build an Image classification model using the pretrained model.
+* used Keras for the implementation.
