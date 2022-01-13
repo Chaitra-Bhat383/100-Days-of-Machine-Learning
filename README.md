@@ -342,6 +342,16 @@ Learnt :
 * Analysed the efficiency of both the models on CIFAR-10 dataset.
 * [Reference](https://analyticsindiamag.com/mobilenet-vs-resnet50-two-cnn-transfer-learning-light-frameworks/)
 
-## DAY-54 [13/01/2022] Image classifier using MobileNet:
+## Day-54 [13/01/2022] Image classifier using MobileNet:
 * Build an Image classification model using the pretrained model.
 * used Keras for the implementation.
+
+## Day-55 [14/01/2022] VGGNet-16:
+Learnt:
+
+![image](https://user-images.githubusercontent.com/79207846/149399572-a84321c3-9949-4aa6-a271-a01b810e5cd6.png)
+
+* VGG(Visual Geometry Group)16 Architecture.
+* Performance of VGG models.
+* [Reference](https://viso.ai/deep-learning/vgg-very-deep-convolutional-networks/)
+* VGG16 Neural Network [Visualization](https://www.youtube.com/watch?v=RNnKtNrsrmg)
