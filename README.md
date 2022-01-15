@@ -355,3 +355,8 @@ Learnt:
 * Performance of VGG models.
 * [Reference](https://viso.ai/deep-learning/vgg-very-deep-convolutional-networks/)
 * VGG16 Neural Network [Visualization](https://www.youtube.com/watch?v=RNnKtNrsrmg)
+
+## Day-56 [15/01/2022] Matrix theory:
+* started off with matrix theory.
+* learnt about linear combination.
+* vector spaces.
