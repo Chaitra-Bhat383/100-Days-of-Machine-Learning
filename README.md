@@ -370,3 +370,7 @@ Learnt:
 ## Day-58 [17/01/2022] Matrix theory:
 * learnt about gaussian elimination.
 * rank of a matrix.
+
+## Day-59 [18/01/2022] Project on VGG16:
+* Built a Simple Photo Classifier using VGG16.
+* [Reference](https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/)
