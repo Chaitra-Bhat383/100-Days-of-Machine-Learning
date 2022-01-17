@@ -366,3 +366,7 @@ Learnt:
 * Implemented them using numpy and pandas.
 * Learnt [Matrix Types](https://machinelearningmastery.com/introduction-to-types-of-matrices-in-linear-algebra/) in Linear Algebra for machine learning.
 * Went through few [Matrix Operations](https://machinelearningmastery.com/matrix-operations-for-machine-learning/) for machine learning.
+
+## Day-58 [17/01/2022] Matrix theory:
+* learnt about gaussian elimination.
+* rank of a matrix.
