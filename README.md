@@ -387,5 +387,5 @@ Learnt:
 ![image](https://user-images.githubusercontent.com/79207846/150283778-517ee603-520b-4fe7-9697-17d1f9cceee2.png)
 
 
-* Read a article titled "The 10 Neural Network Architectures Machine Learning Researchers Need To Learn" - which summarised all the models we learnt so far.
+* Read an article titled "The 10 Neural Network Architectures Machine Learning Researchers Need To Learn" - which summarised all the models we learnt so far.
 * [Reference](https://data-notes.co/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786)
