@@ -394,4 +394,7 @@ Learnt:
 * Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.
 * Adam combines the best properties of the AdaGrad and RMSProp algorithms to provide an optimization algorithm that can handle sparse gradients on noisy problems.
 * [Intuition behind Adam](https://www.geeksforgeeks.org/intuition-of-adam-optimizer/).
-* learnt why [Adam is used over other optimizers](https://
+* learnt why [Adam is used over other optimizers](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/#:~:text=Adam%20combines%20the%20best%20properties,do%20well%20on%20most%20problems.).
+
+ 
+
