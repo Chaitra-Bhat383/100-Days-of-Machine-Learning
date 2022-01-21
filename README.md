@@ -389,3 +389,9 @@ Learnt:
 
 * Read an article titled "The 10 Neural Network Architectures Machine Learning Researchers Need To Learn" - which summarised all the models we learnt so far.
 * [Reference](https://data-notes.co/a-gentle-introduction-to-neural-networks-for-machine-learning-d5f3f8987786)
+
+## Day-62 [21/01/2022] Adam optimizer:
+* Adam is a replacement optimization algorithm for stochastic gradient descent for training deep learning models.
+* Adam combines the best properties of the AdaGrad and RMSProp algorithms to provide an optimization algorithm that can handle sparse gradients on noisy problems.
+* [Intuition behind Adam](https://www.geeksforgeeks.org/intuition-of-adam-optimizer/).
+* learnt why [Adam is used over other optimizers](https://
