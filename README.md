@@ -422,4 +422,5 @@ Learnt:
 
 ## Day-67 [26/01/2022] AdaDelta Optimizer:
 * Adadelta is an extension of Adagrad that attempts to solve its radically diminishing learning rates. 
-* [Adadelta](https://golden.com/wiki/Adadelta) is a machine learning optimization algorithm that was created by Matthew D. Zeiler with the goal of addressing two drawbacks of the Adagrad method.
+* Adadelta is a machine learning optimization algorithm that was created by Matthew D. Zeiler with the goal of addressing two drawbacks of the Adagrad method.
+* [Reference](https://golden.com/wiki/Adadelta)
