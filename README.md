@@ -451,3 +451,8 @@ Problem Statement:
 * Provide a sophisticated and useful model using model using different NLP or ML techniques.
 * Find out the most useful drugs for each condition.
 * Find out some of the hidden trends or patterns that could help the company to make precise data driven decisions.
+
+## Day-73 [1/02/2022] Project 2 ==> Twitter Sentiment Analysis:
+Problem Statement:
+* to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication. 
+* [Reference](https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/)
