@@ -446,7 +446,7 @@ Learnt:
 * Read about Donald Hoffman's Case against reality
 * Read an article about [cognitive sciences and machine learning.](https://www.wired.com/insights/2014/07/machine-learning-cognitive-systems-next-evolution-enterprise-intelligence-part/)
 
-## Day-72 [31/01/2022] Project 1 ==> Drug Prescription
+## Day-72 [31/01/2022] Project 1 ==> Drug Prescription:
 Problem Statement:
 * Provide a sophisticated and useful model using model using different NLP or ML techniques.
 * Find out the most useful drugs for each condition.
