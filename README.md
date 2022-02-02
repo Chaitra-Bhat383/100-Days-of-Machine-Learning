@@ -456,3 +456,20 @@ Problem Statement:
 Problem Statement:
 * to identify the view or emotion behind a situation. It basically means to analyze and find the emotion or intent behind a piece of text or speech or any mode of communication. 
 * [Reference](https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/)
+
+## Day-74 [2/02/20222] Project 3 ==> Stock Market Prediction:
+Problem Statement:
+* Stock market investments generate great profits and is a fundamental stimulus for most of the market researchers in this area.Technical analysis focuses on analyzing the direction of prices to predict future prices.Fundamental analysis depends on analyzing unstructured textual information like financial news and earning reports.
+* Performing fundamental analysis using machine learning techniques is quite interesting as it's mostly based on analysing text and sentiments.
+* Technical analysis is a pure number game where we have a bunch of numeric past information which has to be mapped to a number which we expect to be the future price which suits to be a perfect problem to be solved using Deep learning.
+![image](https://user-images.githubusercontent.com/79207846/152109510-3856b6f0-4839-48f0-bab5-56f75e09ba0b.png)
+
+
+![image](https://user-images.githubusercontent.com/79207846/152109788-5a117a01-2f1e-4103-b8c0-86d9c7cc493e.png)
+ 
+
+![image](https://user-images.githubusercontent.com/79207846/152109867-6023f2ca-9e26-420d-be3e-1307ff090ba9.png)
+ 
+![image](https://user-images.githubusercontent.com/79207846/152109886-cabe8cfa-cfa8-4a6a-a9b0-0eb4eba66c08.png)
+
+
