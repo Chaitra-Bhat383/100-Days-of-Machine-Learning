@@ -460,6 +460,6 @@ Problem Statement:
 ## Day-74 [2/02/20222] Project 3 ==> Stock Market Prediction:
 Problem Statement:
 * Stock market investments generate great profits and is a fundamental stimulus for most of the market researchers in this area.Technical analysis focuses on analyzing the direction of prices to predict future prices.
-* Performing fundamental analysis using machine learning techniques is quite interesting as it's mostly based on analysing text and sentiments, we have a bunch of numeric past information which has to be mapped to a number which we expect to be the future price which suits to be a perfect problem to be solved using Deep learning.
+* It's mostly based on analysing text and sentiments, where we have a bunch of numeric past information which has to be mapped to a number which we expect to be the future price which suits to be a perfect problem to be solved using Deep learning.
 
 
