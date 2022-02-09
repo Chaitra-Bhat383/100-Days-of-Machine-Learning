@@ -494,6 +494,7 @@ Problem Statement:
 
 ## Day-82 [10/02/2022] Project 11 ==> Text Summarizer:
 * Unsupervised learning approach to find the sentences similarity and rank them accordingly using Cosine Similarity.
-* Cosine similarity is a measure of similarity between two non-zero vectors(here sentences are represented as vectors) of an inner product space that measures the cosine of the angle between them. Angle will be 0 if sentences are similar.
+* Cosine similarity is a measure of similarity between two non-zero vectors(here sentences are represented as vectors) that measures the cosine of the angle between them. Angle will be 0 if sentences are similar.
 * Code flow:
+
     Input article → split into sentences → remove stop words → build a similarity matrix → generate rank based on matrix → pick top N sentences for summary.
