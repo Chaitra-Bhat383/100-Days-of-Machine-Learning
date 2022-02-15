@@ -507,3 +507,9 @@ Problem Statement:
 ## Day-84 [12/02/2022] Research Paper 2 ==> Using Support Vector Machines to Classify Student Attentiveness for the Development of Personalized Learning Systems:
 * This article describes a system that uses a commercial RGB-D camera to monitor, count, and record student gestures, postures, facial expressions, and verbalizations in order to produce data for determining student attentiveness.
 * Machine learning algorithms are then used to cluster, label, and classify the data for the purpose of classifying subsequent students as attentive or inattentive.
+
+## Day-85 [14/02/2022] Research Paper 3 ==> Classification Technique of Interviewer-Bot Result using Naïve Bayes and Phrase Reinforcement Algorithms:
+* The response indicating that the Naïve
+Bayes method and Reinforcement Phrase algorithm can be used to classify the inter-viewer-bot interview result. In addition, interviewer-bot system has the intelligent ability so it could contribute positively for students practicing interviews in English.
+* The accuracy level is about 86.93%.
+* [Link](https://online-journals.org/index.php/i-jet/article/view/7173/4798)
