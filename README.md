@@ -524,5 +524,5 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * DIET Classifier model can predict each word or sentence from the chatbot with different confidence values for all of the intents used.
 
 ## Day-88 [17/02/2022] Research Paper 6 ==> Deep Learning Based Vehicle Detection From Aerial Images:
-* This Paper is on developing an approach that is able to identify the vehicles through aerial images by using the YOLO (You Only Look Once) algorithm, feeding it with a trained convolutional neural network structure.
+* The Paper discusses on a study aimed to develop an approach that is able to identify the vehicles through aerial images by using the YOLO (You Only Look Once) algorithm, feeding it with a trained convolutional neural network structure.
 * As a result of the study, an application that can detect vehicles was developed, increased the performance rate of the YOLO algorithm by 3.2%.
