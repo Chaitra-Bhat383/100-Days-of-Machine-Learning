@@ -532,6 +532,6 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * Implements chatbot using NLTK, sentence tokenizing and stemming. Basically breaks sentences into words, and finds similar words in database using cosine similarity
 * [link](https://www.researchgate.net/publication/343452594_Chatbot_for_Medical_Treatment_using_NLTK_Lib)
 
-## Day-90 [19/02/2022] Reasearch Paper 8 ==> Identifying Traffic Congestion Pattern using K-means Clustering Technique:
+## Day-90 [25/02/2022] Reasearch Paper 8 ==> Identifying Traffic Congestion Pattern using K-means Clustering Technique:
 * The aim of this paper is to propose a traffic congestion pattern recognition system. It acquires real time road traffic information and categorizes the different road segments based on traffic density and average speed of vehicles.
 * The traffic parameters are captured by in-road stationary sensors deployed in road segments. The proposed system uses k means clustering algorithm to categorize the different road segments.
