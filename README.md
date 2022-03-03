@@ -540,6 +540,7 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * Traffic forecasting, Spatial-temporal, Graph convolution, LSTM, Recurrent neural network
 * [link](https://arxiv.org/ftp/arxiv/papers/1802/1802.07007.pdf)
 
-## Day-92 [04/02/2022] Research Paper 10 ==> Diagnosis of Crime Rate against Women using k-fold Cross Validation through Machine Learning Algorithms.
+## Day-92 [04/03/2022] Research Paper 10 ==> Diagnosis of Crime Rate against Women using k-fold Cross Validation through Machine Learning Algorithms.
 * The main aim of this work is to develop prediction model that can be used to predict crime rate accurately.
-* This paper introduces six different types of Machine learning algorithms such as KNN and decision trees, Naïve Bayes, Linear Regression CART (Classification and Regression Tree) and SVM using similar characteristics on crime data. Those algorithms are tested for accuracy. The main objective of this research is to evaluate the efficacy and application of the machine learning algorithms in data analytics.
+* This paper introduces six different types of Machine learning algorithms such as KNN and decision trees, Naïve Bayes, Linear Regression CART (Classification and Regression Tree) and SVM using similar characteristics on crime data. Those algorithms are tested for accuracy. 
+* The main objective of this research is to evaluate the efficacy and application of the machine learning algorithms in data analytics.
