@@ -544,3 +544,17 @@ Bayes method and Reinforcement Phrase algorithm can be used to classify the inte
 * The main aim of this work is to develop prediction model that can be used to predict crime rate accurately.
 * This paper introduces six different types of Machine learning algorithms such as KNN and decision trees, Naïve Bayes, Linear Regression CART (Classification and Regression Tree) and SVM using similar characteristics on crime data. Those algorithms are tested for accuracy. 
 * The main objective of this research is to evaluate the efficacy and application of the machine learning algorithms in data analytics.
+
+## Day-93 [11/03/2022] Graph Theory:
+* Started watching stanford cs224w videos for graph theory.
+* Overview of graphs, why we need graphs and applications of graphs in ml.
+
+## Day-94 [12/03/2022] Nodes, Edges and Graph embedding and random walk:
+* Read about operations on graphs using Node, edges and graph centric operations
+* various methods and techniques related to random walk and its optimisation.
+* Learnt about page rank and personalised page rank.
+
+## Day-95 [13/03/2022] Semi-Supervised Learning, Correct & Smooth, Relational and Iterative Classification, Deep Graph Encoders:
+* Learnt about 2 approaches to collective classification i.e Relational and Iterative Classification.
+* Learnt how to leverage correlation in graphs to make prediction on nodes.
+* Started with Deep Graph Encoders.
